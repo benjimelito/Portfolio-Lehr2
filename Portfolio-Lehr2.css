@@ -1,0 +1,55 @@
+h1 {
+	font-family: "Faster One";
+	margin-top: 50px;
+}
+
+body {
+	font-family: "Raleway";
+}
+
+#sidebar {
+	margin-left: 20px;
+	float:left;
+}
+
+#barboza img{
+	float: left;
+	height: 540px;
+	width: 740px;
+	margin: 50px 30px;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#diary {
+	float: left;
+	height: 265px;
+	width: 375px;
+	margin: 50px 30px;
+}
+
+h1 a {
+	text-decoration: none;
+}
+
+#blogRoll {
+	height: 400px;
+	width: 140px;
+	border: 2px solid black;
+	float: left;
+	margin: 50px 30px;
+	text-align: center;
+}
+
+#blogRoll ul li{
+	list-style: none;
+	text-align: left;
+}
